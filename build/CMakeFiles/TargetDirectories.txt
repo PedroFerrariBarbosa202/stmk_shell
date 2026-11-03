@@ -1,0 +1,6 @@
+/home/pedrofb/Desktop/Cs/CPP/stmk_shell/build/CMakeFiles/stmk_shell.dir
+/home/pedrofb/Desktop/Cs/CPP/stmk_shell/build/CMakeFiles/edit_cache.dir
+/home/pedrofb/Desktop/Cs/CPP/stmk_shell/build/CMakeFiles/rebuild_cache.dir
+/home/pedrofb/Desktop/Cs/CPP/stmk_shell/build/src/CMakeFiles/stmk_sh.dir
+/home/pedrofb/Desktop/Cs/CPP/stmk_shell/build/src/CMakeFiles/edit_cache.dir
+/home/pedrofb/Desktop/Cs/CPP/stmk_shell/build/src/CMakeFiles/rebuild_cache.dir

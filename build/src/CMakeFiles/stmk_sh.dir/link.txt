@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstmk_sh.a CMakeFiles/stmk_sh.dir/stmk_sh.cpp.o CMakeFiles/stmk_sh.dir/commd_handler.cpp.o
+/usr/bin/ranlib libstmk_sh.a

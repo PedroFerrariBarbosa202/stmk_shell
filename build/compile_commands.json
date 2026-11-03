@@ -1,0 +1,28 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-I/home/pedrofb/Desktop/Cs/CPP/stmk_shell/src/../include",
+      "-c",
+      "-o",
+      "CMakeFiles/stmk_sh.dir/commd_handler.cpp.o",
+      "/home/pedrofb/Desktop/Cs/CPP/stmk_shell/src/commd_handler.cpp"
+    ],
+    "directory": "/home/pedrofb/Desktop/Cs/CPP/stmk_shell/build/src",
+    "file": "/home/pedrofb/Desktop/Cs/CPP/stmk_shell/src/commd_handler.cpp",
+    "output": "/home/pedrofb/Desktop/Cs/CPP/stmk_shell/build/src/CMakeFiles/stmk_sh.dir/commd_handler.cpp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-I/home/pedrofb/Desktop/Cs/CPP/stmk_shell/src/../include",
+      "-c",
+      "-o",
+      "CMakeFiles/stmk_shell.dir/tool/stmk_shell.cpp.o",
+      "/home/pedrofb/Desktop/Cs/CPP/stmk_shell/tool/stmk_shell.cpp"
+    ],
+    "directory": "/home/pedrofb/Desktop/Cs/CPP/stmk_shell/build",
+    "file": "/home/pedrofb/Desktop/Cs/CPP/stmk_shell/tool/stmk_shell.cpp",
+    "output": "/home/pedrofb/Desktop/Cs/CPP/stmk_shell/build/CMakeFiles/stmk_shell.dir/tool/stmk_shell.cpp.o"
+  }
+]

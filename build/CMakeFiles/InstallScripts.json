@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/pedrofb/Desktop/Cs/CPP/stmk_shell/build/cmake_install.cmake",
+		"/home/pedrofb/Desktop/Cs/CPP/stmk_shell/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
